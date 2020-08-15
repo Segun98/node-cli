@@ -1,0 +1,14 @@
+{
+  "name": "task-two",
+  "version": "1.0.0",
+  "description": "A Command Line Interface Application that accepts user's input and generates a ReadMe File with it",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "Segun Olanitori",
+  "license": "MIT"
+}
