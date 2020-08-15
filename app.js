@@ -8,9 +8,7 @@ console.log(`This app collects information about your project and displays it in
 
 let questions = ["Describe your project in two sentences: ", "Installation", "Usage"]
 
-console.log(`Question 1:
-
-`);
+console.log(`Question 1:`);
 
 
 rl.question(questions[0], (answer) => {
